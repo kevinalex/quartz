@@ -7,7 +7,7 @@ tags:
 
 ## Explanation:
 
-In this case we are trying to redirect a website request, to a machine in the local [[3-sysnet/2-network/Network - MoC]] which hosts the website over the local network accesible through its domain name.
+In this case we are trying to redirect a website request, to a machine in the local [[3-sysnet/2-network/Network-MoC]] which hosts the website over the local network accesible through its domain name.
 
 In other words what we are trying to do is access the website using the domain name (`www.webiste.com`)  from any device within the same network that is hosting the website, that's why we need the redirect to happen at the firewall/router level.
 

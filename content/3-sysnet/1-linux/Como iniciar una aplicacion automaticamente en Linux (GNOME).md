@@ -4,7 +4,7 @@ tags:
 - linux
 ---
 
-Cuando descargamos aplicaciones ejecutables en [[3-sysnet/1-linux/Linux - MoC|Linux - MoC]],  que no se instalan en el sistema y queremos iniciarlas en el login, hay un método creando un archivo .desktop como muestro a continuación:
+Cuando descargamos aplicaciones ejecutables en [[3-sysnet/1-linux/Linux-MoC|Linux]],  que no se instalan en el sistema y queremos iniciarlas en el login, hay un método creando un archivo .desktop como muestro a continuación:
 
 ### Crear o utilizar el archivo.desktop:
 

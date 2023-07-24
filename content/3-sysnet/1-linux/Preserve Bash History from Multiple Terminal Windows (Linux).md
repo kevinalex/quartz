@@ -5,7 +5,7 @@ tags:
 ---
 
 
-*"In this tutorial, we studied ways to preserve Bash _history_ in multiple terminal windows on [[3-sysnet/1-linux/Linux - MoC|Linux - MoC]] .*
+*"In this tutorial, we studied ways to preserve Bash _history_ in multiple terminal windows on [[3-sysnet/1-linux/Linux-MoC|Linux]] .*
 
 *In the beginning, we discussed the _history_ feature of the Bash shell and its default behavior. Next, we discussed the approach and solutions to our problem statement. Finally, we also offered a way to create a separate history file for each session."*
 
