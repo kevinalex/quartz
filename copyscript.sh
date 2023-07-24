@@ -1,4 +1,7 @@
 #!/bin/bash
+cd ~/Documents/quartz/content/; 
+find . -name ".*" -print0 | xargs -0 rm -rf;
+rm -r ~/Documents/quartz/content/*;
 
 # Ruta de la carpeta fuente que deseas copiar
 source_folder="/home/adminkev/Documents/obsidianvault1/Kevin"
