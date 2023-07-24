@@ -1,27 +1,36 @@
 ---
-title: 🪴 Quartz 3.3
+title: "🧠 Synapse Notes"
 enableToc: false
 ---
+## Welcome 👋
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Here are the main topics of this garden 🌻
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+   - 🧠Psychology.
+   - 👨‍💻[[Coding]].
+   - 💻[[Sysadmin and Networking]].
+   -  💡[[Others]].
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+## About me 👈
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+My name is Kevin Cifuentes, I'm a Psychology student, teacher, entrepreneur and IT enthusiast from Colombia  - 🇨🇴.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+Here in this garden of thought🌱 I hope to collect most of my learning in various topics. I speak Spanish as my first language so, apologies in advance for any mistakes. **Please be advised, this collection will probably be written in both languages** as some topics are easier for me to understand or research in each.
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏✒️
 
+
+¡Bienvenido! Mi nombre es Kevin Cifuentes, soy estudiante de Psicología, docente, emprendedor y amante de la tecnología, colombiano - 🇨🇴.
+
+Aquí en este jardín de pensamiento 🌱 espero recolectar la mayoría de mis aprendizajes y de paso mejorar mis habilidades de escritura. Tenga en cuenta que esta colección probablemente estará escrita en Inglés y Español, ya que algunos temas son para mi más fáciles de entender o investigar en cada uno.
+
+## Contact Me 
+
+Feel free to reach me at
+   - 📧 Mail - kevin@synapsenotes.org
+   - 👤  GitHub - https://github.com/kevinalex
+
+## Other projects
+
+  - Soon TM.
