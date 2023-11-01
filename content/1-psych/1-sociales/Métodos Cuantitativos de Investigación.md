@@ -104,7 +104,7 @@ La justificación es el por qué y en algunos casos el para qué de la investiga
 
 En cuanto al control pronóstico, nos permite justificar cómo afectaría nuestra investigación a la problemática, aunque esta sea el poder comprender más en detalle o un contexto particular de nuestro problema.
 
-## Alcance de la investigación (tipos)
+## Alcance de la investigación (tipos de investigación)
 
 ![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1695340517/obsidian/jn27noml36ynb8ku982h.png)
 
@@ -205,3 +205,167 @@ En algunos casos como el de la seguridad en el trabajo se debe tener en cuenta l
 ### Marco empírico
 Responde a la pregunta ¿De qué manera se está estudiando la variable o temática que estoy investigando? Entonces, el marco empírico es investigaciones recientes que se hayan hecho sobre ese tema, cuál era su objetivo y cuáles son los hallazgos más relevantes. 
 
+## Marco metodológico
+
+Tamayo y Tamayo (2003) define al marco metodológico como “**Un proceso que, mediante el método científico, procura obtener información relevante para entender, verificar, corregir o aplicar el conocimiento**”
+### Tipo de estudio
+
+"Se lleva a cabo un estudio cuantitativo. ***<- Tipo de estudio*** Se sigue un diseño transeccional ***<- Tipo de diseño*** correlacional multivariado ***<- Alcance*** donde los datos se recabaron en un solo momento procedentes de un grupo de adolescentes, todos ellos seleccionados mediante un muestreo no probabilístico intencionado en el que se analizaron varias variables simultáneamente (Hernández Sampieri, 2015)" ***<- Justificación del diseño***
+
+#### Diseño
+
+El diseño está orientado a las hipótesis y la forma en la que vamos a trabajar en el contexto o ambiente en el que se va a trabajar. Este permite comprobar las hipótesis planteadas en ambientes controlados o por medio del acercamiento de múltiples realidades.
+
+##### Clasificaciones
+Entonces, eso qué significa que dentro de los estudios experimentales, pues también hay una clasificación según el nivel de rigurosidad, siendo el más robusto, evidentemente, el estudio experimental puro. Allí se tiene control total de todas las variables que intervienen en cuanto a los tiempos, en cuanto a las condiciones que se utilizan, en la selección de la muestra (de forma probabilística).
+
+El pre-experimental puede darse en condiciones que no son tan rigurosas como las de laboratorio, este también se caracteriza porque se utiliza solo un grupo al que le aplico la evaluación inicial, el tratamiento y la evaluación final. 
+
+El cuasi experimental es en donde hay algunos elementos que controlo, efectivamente se trabaja con grupo experimental, Grupo Control, se aplican tratamientos, pero no llegó a tener el control total de la situación. También puede ser atribuido al hecho de que no utilice muestreo para la elección de la de la muestra.
+
+
+| Experimental | No experimental |
+| ------ | -------- |
+| Ambientes controlados: Laboratorios | No hay control de las variables ni de grupos. |
+| Control de variables y tratamiento. | Analizar el comportamiento de variables. |
+| Grupos experimental, aleatorio y control. | Diseños transversales. Diseños longitudinales |
+
+##### Estudios no experimentales
+
+Diseños transversales o transeccionales son aquellos en los que realizo una única medición. Aunque haya variables distintas como ansiedad, depresión pero se miden una sola vez y de forma independiente.
+
+Diseños longitudinales son aquellos en los que se realizan mediciones sucesivas sin aplicar ningún tipo de tratamiento. Por ejemplo en las distintas ocasiones en las que a una mujer embarazada le miden la hormona HCG en la que semana a semana se le hace la misma medición sin intervenirla. 
+
+### Participantes
+
+"La muestra ha sido seleccionada mediante un criterio no estadístico siguiendo un muestreo por conveniencia. ***<- tipo de muestreo*** La muestra estuvo conformada por 285 alumnos escolarizados en el principado de Asturias (España), ***<- de donde son y cuantos*** de los cuales un 58.2% son chicas (n = 167) ***<- relación al sexo***. La edad de los participantes está comprendida entre los 14 y los 18 años ***<- edades*** (M = 15.73; DT = 1.204 *estas son medidas de tendencia central*),   siendo los grupos más representados los alumnos de 15 y 17 años (31.7% y 22.6%, respectivamente). El alumnado participante está organizado en cuatro cursos, desde 3ero de ESO hasta 2do de Bachillerato de los cuales el 28.2% eran alumnos de 3ero de ESO, un 28.2% cursaban 4to de ESO, el 21.6% fue el porcentaje que correspondió a los alumnos de 1ero de Bachillerato y finalmente, otro 21.6% eran alumnos de 2do de Bachillerato.***<- Información relevante de distribución***" 
+
+La población: 
+Total de personas o sujetos que conforman el grupo.
+
+La selección de la muestra:
+Es un subconjunto de la población. Se hace con pertinencia teórica en donde se revise el teórico y el empírico para ver cuál ha funcionado mejor. Debe partir de los estudios encontrados.
+
+Proceso para selección de la muestra.
+````mermaid
+graph TD;
+
+A[1 Determinar la unidad de muestreo o análisis Sobre qué o quienes se recolectarán los datos?] --> B[2 Delimitar a la población o universo];
+B --> C[3 Elegir la estrategia de muestreo adecuada para mantener su representatividad];
+C --> D[4 Caluclar el tamaño de muestra apropiado para que sea representativa de la población *probabilística*];
+D --> E[5 Selecionar las unidades de muestreo o análisis];
+
+````
+
+Determinar la unidad de muestreo
+![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1695691551/obsidian/gp70s23xle7evpx8jfud.png)
+
+Formas de muestreo:
+![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1695691620/obsidian/zm7jtmsiu3kdozae0zfj.png)
+El muestreo probabilístico tiene la dificultad del tiempo y los recursos en cuanto a que no todas las veces se tiene la información necesaria para poderlo usar. En este se tiene una base de datos en donde se determina cuales son las personas que si se pueden seleccionar. 
+Recurso de software: https://highered.mheducation.com/sites/1456260960/student_view0/software.html
+Allí se introduce la cantidad del universo y nos arroja la cantidad de la muestra que debemos usar para tener un rango de error de menos del 5%. 
+
+El no probabilístico es el que se escoge a conveniencia.
+
+### Instrumentos
+
+![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1695692244/obsidian/zj0tdpzzmmdkgddtkxec.png)
+
+Los instrumentos o test son como las pruebas de riesgo psicosocial, pruebas de personalidad, liderazgo, depresión, ansiedad, etc. Deben estar validados para la población colombiana para poder comprobar que los resultados son adecuados para la población
+
+Las encuestas estas tienen preguntas cerradas.
+
+Las escalas son enunciados a partir de los cuales las personas dan su punto de vista. Son cerradas y las más usadas son las tipo Likert. De totalmente de acuerdo a totalmente en desacuerdo. También puede manejar temporalidad como frecuentemente, casi nunca, etc.
+
+El cuestionario son preguntas a partir de las cuales la persona tiene posibilidad de responder. Entre ellas están los cuestionarios sociodemográficos. Por ejemplo con la edad, estado civil, etc para poder tabular información.
+
+Lista de chequeo refiere a que la persona señale de una lista lo que aplica para ella. Como por  ejemplo cual de las siguientes sustancias psicoactivas ha consumido.
+
+![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1695692637/obsidian/gqbwc74vcq07przso43m.png)
+
+### Procedimiento
+
+¿Cuál es el procedimiento que seguí para mi investigación?
+
+![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1695692827/obsidian/hmsdxuojmknygfrk9ale.png)
+
+*en la fase de los resultados solamente cuento el procedimiento en el que escribo cómo estoy tabulando los datos o qué procedimiento estoy usando.*
+
+### Consideraciones éticas
+
+![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1695693049/obsidian/yidiktyky5nr65gy9wsk.png)
+
+Si ustedes trabajan desde la psicología, pues además de esta resolución, le agregan la Ley 1090. 
+
+En el apartado de consideraciones éticas, lo que han de mencionar tiene que ver uno con el uso del consentimiento informado, que ese si es inamovible, o sea sí o sí, se debe hacer uso del consentimiento informado.
+
+#### Consentimiento informado
+
+FORMATO DE CONSENTIMIENTO INFORMADO
+
+Yo, __________________ identificado (a) con Cédula de Ciudadanía No. _____________ de _________, autorizo a las psicólogas en formación ________ del Politécnico Grancolombiano, para participar en la investigación. 
+
+Se me ha informado con antelación, que toda la información suministrada será de carácter confidencial y reservado, tendrá fines puramente académicos y nadie diferente a las profesionales y su tutora tendrán acceso a la misma; a no ser que exista de mi parte previa autorización o que un ente judicial así lo requiriera. También sé que al finalizar el proceso de evaluación recibiré retroalimentación de los hallazgos.
+
+Confirmo que he leído y entendido la información arriba consignada y que acudo voluntariamente a las profesionales en formación. Asimismo, doy fe que la persona encargada me ha explicado satisfactoriamente las condiciones bajo las cuales se llevará el proceso investigativo.
+
+Nombre ___________________
+
+Firma _
+
+Documento de Identidad _
+
+
+### Variables
+
+De acuerdo a su naturaleza pueden ser cualitativas o cuantitativas.
+
+![](https://res.cloudinary.com/dgfrzh1nl/image/upload/f_auto/v1696800277/obsidian/xczhaoxosqqr7kre9nzf.png)
+
+#### Tipos de variables
+##### Cualitativas: 
+Etiquetas, nombres y observaciones.
+
+Clasificación:
+* Dicotómica: Dos opciones de respuesta.
+* Politómica: 3 o más opciones de respuesta.
+
+Tipo de escala:
+Su escala de medición puede ser nominal u ordinal.
+Nominales son las que no se pueden ordenar de una forma particular
+Ordinal son las que se pueden organizar según criterios establecidos de manera jerárquica.
+##### Cuantitativas (escala): 
+Numéricas. Se miden en intervalos de razón. El dato representa una cantidad numérica
+
+Clasificación:
+* Discreta: es número entero (exacto)
+* Continuas: Valores intermedios (decimales)
+
+Tipo de escala:
+Su escala de medición puede ser de intervalo o razón
+Intervalo cuando 0 indica una medida más no ausencia de valor. Es relativo.
+Razón cuando 0 indica que hay una ausencia de valor.
+
+### Medidas de tendencia Central
+
+Medidas estadísticas que buscan *resumir* en un solo valor el conjunto de valores.
+
+* Media: Individuo típico de la población.
+
+* Mediana: Divide el grupo de datos en dos partes iguales y ubica el valor en el centro de ellos.
+
+* Moda: Hace referencia al dato que más se repite o el más común entre los datos.
+
+
+### Medidas de dispersión
+
+Aquellas que entregan información sobre el comportamiento de la variable. Pretende resumir la dispersión del conjunto de datos.
+
+* Rango de variación: Índice de variabilidad más simple, el rango es la distancia entre la puntuación más baja y la más alta.
+
+* Varianza: Medida que busca medir la cercanía de los datos con respecto a la media. 
+
+* Desviación estándar: La desviación indica que tan dispersos están los datos alrededor de la media
+
+* Coeficiente de variación:
