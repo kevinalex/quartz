@@ -1,3 +1,8 @@
+---
+title: Métodos Cuantitativos de Investigación
+tags:
+  - sociales
+---
 # La Investigación
 
 *"Investigar consiste en un grupo de procesos que se utilizan con el fin de aplicarse al estudio de un fenómeno o problema con el objetivo de ampliar el conocimiento al respecto"* (Hernández y Mendoza 2018)

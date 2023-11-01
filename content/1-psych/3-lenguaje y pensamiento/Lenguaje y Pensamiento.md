@@ -1,3 +1,9 @@
+---
+title: Lenguaje y Pensamiento
+tags:
+  - "#lenguaje"
+  - "#pensamiento"
+---
 
 ## Antecedentes
 

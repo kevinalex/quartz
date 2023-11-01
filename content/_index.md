@@ -6,7 +6,7 @@ enableToc: false
 
 Here are the main topics of this garden 🌻
 
-   - 🧠Psychology.
+   - 🧠[[Psychology]].
    - 👨‍💻[[Coding]].
    - 💻[[Sysadmin and Networking]].
    -  💡[[Others]].
