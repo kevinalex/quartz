@@ -2,6 +2,9 @@
 title: Métodos Cuantitativos de Investigación
 tags:
   - sociales
+  - psicologia
+  - investigacion-psicologia
+  - metodos-investigacion
 ---
 # La Investigación
 
@@ -12,7 +15,7 @@ La investigación puede ser:
 * Cualitativa
 * Mixta
 
-La investigación se propone usando el **método científico** en dónde se plantean dos formas de proceder:
+La [[1-psych/3-investigacion teorias y avances/Investigacion Teorias y Avances-MoC|Investigación]] se propone usando el **método científico** en dónde se plantean dos formas de proceder:
 
 1. Inductivo: Desde lo específico a lo general. (Cualitativo)
 2. Deductivo: Desde lo general a lo específico. (Cuantitativo)
@@ -229,10 +232,10 @@ El pre-experimental puede darse en condiciones que no son tan rigurosas como las
 El cuasi experimental es en donde hay algunos elementos que controlo, efectivamente se trabaja con grupo experimental, Grupo Control, se aplican tratamientos, pero no llegó a tener el control total de la situación. También puede ser atribuido al hecho de que no utilice muestreo para la elección de la de la muestra.
 
 
-| Experimental | No experimental |
-| ------ | -------- |
-| Ambientes controlados: Laboratorios | No hay control de las variables ni de grupos. |
-| Control de variables y tratamiento. | Analizar el comportamiento de variables. |
+| Experimental                              | No experimental                               |
+| ----------------------------------------- | --------------------------------------------- |
+| Ambientes controlados: Laboratorios       | No hay control de las variables ni de grupos. |
+| Control de variables y tratamiento.       | Analizar el comportamiento de variables.      |
 | Grupos experimental, aleatorio y control. | Diseños transversales. Diseños longitudinales |
 
 ##### Estudios no experimentales

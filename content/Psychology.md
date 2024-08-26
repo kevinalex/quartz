@@ -1,18 +1,22 @@
 ---
 title: Psychology
 tags:
+  - aplicacion-practica
+  - crecimiento-personal
+  - desarrollo-personal
+  - investigacion
+  - teorias-psicologia
+  - avances-psicologia
   - sociales
-  - lenguaje
-  - pensamiento
+  - conceptos-fundamentos
+  - index
 ---
 
-Temas:
 
-  - 🧑‍🤝‍🧑[[1-psych/1-sociales/Métodos Cuantitativos de Investigación|Sociales]]
-  - 👪[[1-psych/2-desarollo personal/Necesidades en las Relaciones Interpersonales|Necesidades en las Relaciones Interpersonales]]
-  - 💭[[1-psych/3-lenguaje y pensamiento/Lenguaje y Pensamiento|Lenguaje y Pensamiento]]
+### Mapas de Contenido:
 
-
-
+  - 🧠[[1-psych/1-conceptos y fundamentos/Conceptos y Fundamentos-MoC|Conceptos y Fundamentos-MoC]]
+  - 🌱[[1-psych/2-aplicacion practica y crecimiento/Aplicacion Practica y Crecimiento-MoC|Aplicacion Practica y Crecimiento Personal-MoC]]
+  - 💭[[1-psych/3-investigacion teorias y avances/Investigacion Teorias y Avances-MoC|Investigacion Teorias y Avances-MoC]]
 
 

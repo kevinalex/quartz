@@ -1,17 +1,20 @@
 ---
 title: Lenguaje y Pensamiento
 tags:
-  - "#lenguaje"
-  - "#pensamiento"
+  - lenguaje
+  - pensamiento
+  - teorias-psicologia
+  - psicologia
+  - conceptos-fundamentos
 ---
 
-## Antecedentes
+# Antecedentes
 
 Históricamente ubicada en la década de los años setenta. Esta teoría planteó un cambio en el objeto de estudio de la psicología que pasó de ser del estudio de la conducta y el inconsciente, a nuevas áreas del funcionamiento humano no contempladas. 
 
 Sin embargo la psicología cognitiva no ha tenido una unidad o coordinación por lo que no se puede concluir si ha fracasado o triunfado de forma evidente. 
 
-### Antecedentes históricos
+## Antecedentes históricos
 
 Inicia el psicoanálisis como escuela y paradigma de la psicología en el estudio del comportamiento y del actuar humano, tras postulados hermenéuticos e interpretativos, basados en hipótesis del inconsciente. El conductismo postula otra forma de entender el estudio psicológico que parte desde el modelo _estímulo, respuesta, consecuencia_ centrado en experimentos no humanos.
 
@@ -25,7 +28,7 @@ Esta analogía solamente quiere decir que el pensamiento tiene un orden específ
 
 # Filosofía de la ciencia de la psicología cognitiva
 
-El objeto de estudio del desarrollo cognitivo busca cumplir con formular modelos de la mente que sean lógicos, conscientes, plausibles y viables, además de comprender y explicar la mente humana. Por consiguiente, la idea central ha sido explicar qué es la mente, cómo funciona y hacer que la explicación tenga relación con lo que en realidad sucede en el mundo.
+El [[1-psych/1-conceptos y fundamentos/Conceptos y Fundamentos-MoC|Concepto y Fundamento]] u objeto de estudio del desarrollo cognitivo busca cumplir con formular modelos de la mente que sean lógicos, conscientes, plausibles y viables, además de comprender y explicar la mente humana. Por consiguiente, la idea central ha sido explicar qué es la mente, cómo funciona y hacer que la explicación tenga relación con lo que en realidad sucede en el mundo.
 
 Los estudios clásicos tratan de documentar cómo los niños con los años van pasando de un pensamiento concreto a uno más abstracto y son un ejemplo de cómo la psicología cognitiva documenta estos cambios en el procesamiento de la información que entra por los sentidos.
 

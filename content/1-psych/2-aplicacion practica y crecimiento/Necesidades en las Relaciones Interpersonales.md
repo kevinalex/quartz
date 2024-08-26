@@ -1,13 +1,16 @@
 ---
 title: Necesidades en las Relaciones Interpersonales
 tags:
-  - desarrollo-personal
+  - aplicacion-practica
+  - crecimiento-personal
   - necesidades
   - relaciones
+  - psicologia-practica
+
 ---
 # Una Relación Sana
 
-Según un artículo publicado en el [2021](https://journals.sagepub.com/doi/pdf/10.1177/1066480720960416) por E. Murray et, al., el concepto de relación saludable varía de cultura en cultura, sin embargo se encontró mediante encuestas realizadas a diferentes comunidades étnicas y edades en estados unidos la existencia de unas características comunes que los participantes usaron para describir relaciones saludables. Entre las más mencionadas se encuentra *la comunicación, el respeto y la confianza*. Otras características mencionadas con frecuencia fueron *Promueve el crecimiento y bienestar de los individuos, honestidad y apertura, apoyo y aprobación, resolución de conflictos, entre otros.* Por otra parte algunos participantes se centraron en cómo las relaciones les hicieron sentir, así el estudio observa la naturaleza multidimensional de las relaciones saludables. 
+Según un artículo publicado en el [2021](https://journals.sagepub.com/doi/pdf/10.1177/1066480720960416) por E. Murray et, al., el concepto de relación saludable varía de cultura en cultura, sin embargo se encontró mediante encuestas realizadas a diferentes comunidades étnicas y edades en estados unidos la existencia de unas características comunes que los participantes usaron para describir relaciones saludables. Entre las más mencionadas se encuentra *la comunicación, el respeto y la confianza*. Otras características mencionadas con frecuencia fueron *Promueve el [[1-psych/2-aplicacion practica y crecimiento/Aplicacion Practica y Crecimiento-MoC|Crecimiento]] y bienestar de los individuos, honestidad y apertura, apoyo y aprobación, resolución de conflictos, entre otros.* Por otra parte algunos participantes se centraron en cómo las relaciones les hicieron sentir, así el estudio observa la naturaleza multidimensional de las relaciones saludables. 
 
 Este mismo estudio, propone un modelo continuo:
 
@@ -33,7 +36,7 @@ Este modelo entendido desde la perspectiva actual de la terapia cognitiva sirve 
 
 # La Perspectiva del Budismo
 
-[Para el Budismo](https://drarisworld.wordpress.com/2019/04/06/loving-kindness-metta-in-theravada-buddhism/), cada persona vive en su mundo propio, privado, al igual que las otras personas. Todas las cosas que se crean en este mundo son creadas y son propias mías, es decir, la felicidad, la tristeza, cada sentimiento es creado por mi. Esto es importante de reconocer, para entender que de la misma forma que disfruto mi libertad, mi individualidad, cada persona también desea estar en esa libertad y control sobre su propio mundo para sentirse pleno. De esta manera, debería ser un propósito el construir relaciones en las que yo sea consciente de la interdependencia (como lo es el mundo en si) pero así también adquiera el control sobre mi individualidad y permita la  que el mundo a mi alrededor tiene sobre si mismo.
+[Para el Budismo](https://drarisworld.wordpress.com/2019/04/06/loving-kindness-metta-in-theravada-buddhism/), cada persona vive en su mundo propio, privado, al igual que las otras personas. Todas las cosas que se crean en este mundo son creadas y son propias mías, es decir, la felicidad, la tristeza, cada sentimiento es creado por mi. Esto es importante de reconocer, para entender que de la misma forma que disfruto mi libertad, mi individualidad, cada persona también desea estar en esa libertad y control sobre su propio mundo para sentirse pleno. De esta manera, debería ser un propósito el construir relaciones en las que yo sea consciente de la interdependencia (como lo es el mundo en si) pero así también adquiera el control sobre mi individualidad y permita aquella que el mundo a mi alrededor tiene sobre si mismo.
 
 Cuando comprendo estos conceptos según el Budismo entiendo la realidad, nadie ni nada en este mundo es permanente. Absolutamente todo y cada experiencia en esta vida está sujeta al cambio. 
 

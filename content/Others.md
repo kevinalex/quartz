@@ -1,19 +1,18 @@
 ---
 title: Others
 tags:
-- crecimiento
-- libros
-- ensenanza
-- musica
-- videogames
+  - crecimiento
+  - libros
+  - ensenanza
+  - musica
+  - videogames
+  - index
 ---
-
 Temas:
 
-  - 🌱Crecimiento Personal
-  - 📖Libros
-  - 👨‍🏫Enseñanza
   - 🎸Música
+  - 📖[[4-others/2-libros/Libros-MoC|Libros-MoC]]
+  - 👨‍🏫Enseñanza
   - 🕹️VideoGames
 
 
