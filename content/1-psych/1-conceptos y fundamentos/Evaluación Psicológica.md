@@ -15,7 +15,7 @@ Se presenta en base a cinco momentos claves en el proceso de la evaluación psic
 
 **Motivo de la consulta**, es la razón por la cual el individuo acude al servicio. Debe plasmarse de manera textual y siempre entre comillas indicando además si la persona ha sido remitida por alguna institución o viene por voluntad propia. 
 
-**Problemáticas asociadas**, se hace necesario hacer la distinción entre el posible código diagnóstico del caso de las circunstancias que están relacionadas con la razón por la cual acude para el proceso. Por ejemplo si se acude con síntomas depresivos profusos la problemática del caso puede implica run evento traumático, un proceso de duelo no resuelto, dificultades familiares, etc.
+**Problemáticas asociadas**, se hace necesario hacer la distinción entre el posible código diagnóstico del caso de las circunstancias que están relacionadas con la razón por la cual acude para el proceso. Por ejemplo si se acude con síntomas depresivos profusos la problemática del caso puede implicar un evento traumático, un proceso de duelo no resuelto, dificultades familiares, etc.
 
 
 ## Momento 2:
